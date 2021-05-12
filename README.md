@@ -34,6 +34,6 @@ Following repositories contain artifacts related to both FDO as well as SDO rele
 
 | Repository&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description |
 |---|---|
-| [docs](https://github.com/secure-device-onboard/docs) | Maintains document hosted for both FDO as well as SDO implementations. |
+| [docs](https://github.com/secure-device-onboard/docs) | Maintains source for the documents hosted on [GitHub IO](https://secure-device-onboard.github.io/docs). |
 | [epid-verification-service](https://github.com/secure-device-onboard/epid-verification-service) | JAVA-based implementation to support EPID signature verification through REST end-points. |
 | [readme](https://github.com/secure-device-onboard/readme) | Contains details about different repositories within Secure Device Onboard organization. |
