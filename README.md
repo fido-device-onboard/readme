@@ -5,7 +5,7 @@ as well as Secure Device Onboard (SDO) protocol.
 
 ## FDO Specific Repositories
 
-Following repositories are created to support implementations for FDO specification.
+The following repositories are created to support implementations for FDO specification.
 
 | Repository&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description |
 |---|---|
@@ -16,7 +16,7 @@ Following repositories are created to support implementations for FDO specificat
 
 ## SDO Specific Repositories
 
-Following repositories are created to support implementations for SDO protocol.
+The following repositories are created to support implementations for SDO protocol.
 
 | Repository&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description |
 |---|---|
@@ -30,7 +30,7 @@ Following repositories are created to support implementations for SDO protocol.
 
 ## Common repositories
 
-Following repositories contain artifacts related to both FDO as well as SDO releases.
+The following repositories contain artifacts related to both FDO as well as SDO releases.
 
 | Repository&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description |
 |---|---|
